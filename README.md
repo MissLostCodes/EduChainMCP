@@ -58,6 +58,10 @@ uv run mcp dev main.py
 
 ### then add tool to claude desktop using command :
 uv run mcp install main.py 
+![image](https://github.com/user-attachments/assets/c27780b4-9f1d-4fdc-b8db-ad193e1ac891)
+
+
+## On claude Desktop :
 ![image](https://github.com/user-attachments/assets/d7932027-cd6f-4dfd-a154-08c6174f5427)
 ![image](https://github.com/user-attachments/assets/b24ea9b4-5998-495d-b83f-8be27f09cd81)
 Then restart claude and we can use our tools easily . 
@@ -72,7 +76,6 @@ Then restart claude and we can use our tools easily .
 
 
 
-![image](https://github.com/user-attachments/assets/c27780b4-9f1d-4fdc-b8db-ad193e1ac891)
 
 
 
