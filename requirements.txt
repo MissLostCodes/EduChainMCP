@@ -1,0 +1,15 @@
+# Core Educhain framework
+educhain>=0.1.0
+
+# Langchain + Gemini (Google Generative AI wrapper)
+langchain>=0.1.14
+langchain-google-genai>=0.0.10
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# Model Context Protocol CLI and server
+mcp[cli]>=0.2.1
+
+# Optional: Add uv for running commands (Claude Desktop integration)
+uv>=0.1.42
