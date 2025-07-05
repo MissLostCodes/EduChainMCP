@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "default-server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp",
+        "mcp",
+        "run",
+        "main.py"
+      ],
+      "env": {
+        "APPDATA": "C:\\Users\\Shagun Gupta\\AppData\\Roaming",
+        "HOMEDRIVE": "C:",
+        "HOMEPATH": "\\Users\\Shagun Gupta",
+        "LOCALAPPDATA": "C:\\Users\\Shagun Gupta\\AppData\\Local",
+        "PATH": "C:\\Users\\Shagun Gupta\\AppData\\Roaming\\npm;C:\\Users\\Shagun Gupta\\EduchainMCP\\node_modules\\.bin;C:\\Users\\Shagun Gupta\\node_modules\\.bin;C:\\Users\\node_modules\\.bin;C:\\node_modules\\.bin;C:\\Users\\Shagun Gupta\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\@npmcli\\run-script\\lib\\node-gyp-bin;C:\\Users\\Shagun Gupta\\EduchainMCP\\venv\\Scripts;C:\\Users\\Shagun Gupta\\EduchainMCP\\venv\\Scripts;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\Shagun Gupta\\.conda;C:\\Users\\Shagun Gupta\\Downloads\\jdk-20_windows-x64_bin.exe;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\MongoDB\\Server\\8.0\\bin;C:\\Users\\Shagun Gupta\\Downloads\\mongosh-2.3.1-win32-x64\\mongosh-2.3.1-win32-x64\\bin;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\160\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\160\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\160\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\7-Zip\\bin;C:\\Users\\Shagun Gupta\\.local\\bin;C:\\Users\\Shagun Gupta\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\Shagun Gupta\\AppData\\Local\\Programs\\Python\\Python312\\;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\Shagun Gupta\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Shagun Gupta\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Shagun Gupta\\AppData\\Roaming\\npm;C:\\Users\\Shagun Gupta\\.dotnet\\tools;C:\\Users\\Shagun Gupta\\AppData\\Local\\Programs\\mongosh\\;C:\\Users\\Shagun Gupta\\AppData\\Local\\Programs\\Windsurf\\bin;C:\\Users\\Shagun Gupta\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-7.1.1-full_build\\bin;C:\\Users\\Shagun Gupta\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin",
+        "PROCESSOR_ARCHITECTURE": "AMD64",
+        "SYSTEMDRIVE": "C:",
+        "SYSTEMROOT": "C:\\WINDOWS",
+        "TEMP": "C:\\Users\\SHAGUN~1\\AppData\\Local\\Temp",
+        "USERNAME": "Shagun Gupta",
+        "USERPROFILE": "C:\\Users\\Shagun Gupta",
+        "PROGRAMFILES": "C:\\Program Files"
+      }
+    },
+    "Educhain MCP": {
+      "command": "C:\\Users\\Shagun Gupta\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\Shagun Gupta\\EduchainMCP\\main.py"
+      ]
+    }
+  }
+}
